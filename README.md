@@ -18,15 +18,13 @@ Hébergeur: [Rocket Host](https://rocket-host.fr/)
       systemctl enable wings
 ```
 
- 3) La liste des ports de la node
-    
-```
+3) La liste des ports de la node:
+   
              25565-26000
-```
 
- 5) Lien des eggs Discord JS / Discord PY:
+5) Lien des eggs Discord JS / Discord PY:
      
-         - https://www.clictune.com/iFSY
+      https://www.clictune.com/iFSY
      
 Source:
 [Documentation Officiel de Pterodatyl] (https://pterodactyl.io/project/introduction.html)
