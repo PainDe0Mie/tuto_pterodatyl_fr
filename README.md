@@ -6,19 +6,25 @@ Hébergeur: [Rocket Host](https://rocket-host.fr/)
 
 1) Script Installation de Pterodatyl via le SSH Linux:
 
+```
     bash <(curl -s https://pterodactyl-installer.se)
+```
 
 2) Commande pour démarré la node:
 
+```
       systemctl start wings
    
       systemctl enable wings
+```
 
  3) La liste des ports de la node
-
+    
+```
              25565-26000
+```
 
- 4) Lien des eggs Discord JS / Discord PY:
+ 5) Lien des eggs Discord JS / Discord PY:
      
          - https://www.clictune.com/iFSY
      
