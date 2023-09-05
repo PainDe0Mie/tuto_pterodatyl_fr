@@ -5,7 +5,6 @@ Lien de la vidéo tuto: [Clic](https://www.youtube.com/watch?v=LGUBT9Ebq-Q)
 Hébergeur: [Rocket Host](https://rocket-host.fr/) 
 
 1) Script Installation de Pterodatyl via le SSH Linux:
-
 ```
     bash <(curl -s https://pterodactyl-installer.se)
 ```
@@ -14,9 +13,7 @@ Hébergeur: [Rocket Host](https://rocket-host.fr/)
 
 ```
       systemctl start wings
-   
-      systemctl enable wings
-```
+      systemctl enable wings```
 
 3) La liste des ports de la node:
    
@@ -27,11 +24,6 @@ Hébergeur: [Rocket Host](https://rocket-host.fr/)
   https://www.clictune.com/iFSY
 
 
-
 -----------------------------------------------------------------------------------------
-
-     
-Source:
-[Documentation Officiel de Pterodatyl](https://pterodactyl.io/project/introduction.html)
 
 [Discord Support de Ptero](https://discord.com/invite/pterodactyl) [Angais uniquement]
