@@ -20,11 +20,11 @@ Hébergeur: [Rocket Host](https://rocket-host.fr/)
 
 3) La liste des ports de la node:
    
-             25565-26000
+   25565-26000
 
 5) Lien des eggs Discord JS / Discord PY:
      
-      https://www.clictune.com/iFSY
+https://www.clictune.com/iFSY
      
 Source:
 [Documentation Officiel de Pterodatyl] (https://pterodactyl.io/project/introduction.html)
