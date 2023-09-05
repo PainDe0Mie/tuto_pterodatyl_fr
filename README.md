@@ -20,11 +20,8 @@ Hébergeur: [Rocket Host](https://rocket-host.fr/)
    
    25565-26000
 
-5) Lien des eggs Discord JS / Discord PY:
+5) Lien des eggs Discord JS / Discord PY: [Clic-Ici]( https://www.clictune.com/iFSY)
      
-  https://www.clictune.com/iFSY
-
-
 -----------------------------------------------------------------------------------------
 
 [Discord Support de Ptero](https://discord.com/invite/pterodactyl) [Angais uniquement]
