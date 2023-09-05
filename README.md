@@ -1,6 +1,6 @@
 # tuto_pterodatyl_fr
 
-Lien de la vidéo: [Tuto](https://www.youtube.com/watch?v=LGUBT9Ebq-Q)
+ [Lien de la vidéo:](https://www.youtube.com/watch?v=LGUBT9Ebq-Q)
 
 Lien de l'Hébergeur: [Rocket Host](https://rocket-host.fr/) (Merci à eux ! 🥰) 
 
@@ -22,7 +22,7 @@ Lien de l'Hébergeur: [Rocket Host](https://rocket-host.fr/) (Merci à eux ! �
    
    **25565-26000**
 
-5) Lien des eggs Discord JS / Discord PY: [CLIC-ICI]( https://www.clictune.com/iFSY)
+5) [Lien des eggs Discord JS / Discord PY:]( https://www.clictune.com/iFSY)
      
 -----------------------------------------------------------------------------------------
 
