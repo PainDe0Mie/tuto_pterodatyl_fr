@@ -18,7 +18,7 @@ Hébergeur: [Rocket Host](https://rocket-host.fr/)
 
 3) La liste des ports de la node:
    
-   25565-26000
+   **25565-26000**
 
 5) Lien des eggs Discord JS / Discord PY: [Clic-Ici]( https://www.clictune.com/iFSY)
      
