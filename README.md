@@ -1,6 +1,6 @@
 # tuto_pterodatyl_fr
 
-Lien de la vidéo: https://www.youtube.com/watch?v=LGUBT9Ebq-Q
+Lien de la vidéo tuto: [Clic](https://www.youtube.com/watch?v=LGUBT9Ebq-Q)
 
 Hébergeur: [Rocket Host](https://rocket-host.fr/) 
 
