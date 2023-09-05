@@ -2,7 +2,7 @@
 
  [Lien de la vidéo:](https://www.youtube.com/watch?v=LGUBT9Ebq-Q)
 
-Lien de l'Hébergeur: [Rocket Host](https://rocket-host.fr/) (Merci à eux ! 🥰) 
+[Le site de Rocket Host:](https://rocket-host.fr/)     (Merci à eux ! 🥰) 
 
 1) Script Installation de Pterodatyl via le SSH Linux:
 ```
