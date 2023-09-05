@@ -24,9 +24,14 @@ Hébergeur: [Rocket Host](https://rocket-host.fr/)
 
 5) Lien des eggs Discord JS / Discord PY:
      
-https://www.clictune.com/iFSY
+  https://www.clictune.com/iFSY
+
+
+
+-----------------------------------------------------------------------------------------
+
      
 Source:
-[Documentation Officiel de Pterodatyl] (https://pterodactyl.io/project/introduction.html)
+[Documentation Officiel de Pterodatyl](https://pterodactyl.io/project/introduction.html)
 
 [Discord Support de Ptero](https://discord.com/invite/pterodactyl) [Angais uniquement]
