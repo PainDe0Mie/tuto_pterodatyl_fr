@@ -13,7 +13,8 @@ Hébergeur: [Rocket Host](https://rocket-host.fr/)
 
 ```
       systemctl start wings
-      systemctl enable wings```
+      systemctl enable wings
+```
 
 3) La liste des ports de la node:
    
