@@ -13,6 +13,8 @@ Lien de l'Hébergeur: [Rocket Host](https://rocket-host.fr/) (Merci à eux ! �
 
 ```
       systemctl start wings
+```
+```
       systemctl enable wings
 ```
 
