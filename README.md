@@ -24,6 +24,12 @@
    **25565-26000**
 
 5) [Lien des eggs Discord JS / Discord PY:]( https://www.clictune.com/iFSY)
+
+-----------------------------------------------------------------------------------------
+
+Mettre une adresse IP si on n'a pas de nom de domaine:
+
+Changé les étapes: "panel.elexyr22.fr" par ip de votre vps (pour la db, et la node) et ne pas accepté les SSL
      
 -----------------------------------------------------------------------------------------
 
