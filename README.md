@@ -27,4 +27,6 @@
      
 -----------------------------------------------------------------------------------------
 
+[Documention de Ptero](https://pterodactyl.io/project/introduction.html)
+
 [Discord Support de Ptero](https://discord.com/invite/pterodactyl) [Angais uniquement]
