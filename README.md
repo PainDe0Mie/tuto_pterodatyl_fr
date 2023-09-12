@@ -13,10 +13,10 @@
 2) Commande pour démarré la node:
 
 ```
-      systemctl start wings
+systemctl start wings
 ```
 ```
-      systemctl enable wings
+systemctl enable wings
 ```
 
 3) La liste des ports de la node:
