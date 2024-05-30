@@ -7,7 +7,7 @@
 
 1) Script Installation de Pterodatyl via le SSH Linux:
 ```
-    bash <(curl -s https://pterodactyl-installer.se)
+bash <(curl -s https://pterodactyl-installer.se)
 ```
 
 2) Commande pour démarré la node:
